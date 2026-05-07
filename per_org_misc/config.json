@@ -19,7 +19,7 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Id",
+    "groupSelectorAttribute": false,
     "hoverBehavior": "dim"
   },
   "informationPanel": {
@@ -40,10 +40,10 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
-      "minNodeSize": 1,
-      "maxNodeSize": 7
+      "maxEdgeSize": 0.3,
+      "minEdgeSize": 0.3,
+      "minNodeSize": 3,
+      "maxNodeSize": 3
     },
     "mouseProperties": {
       "maxRatio": 20,
