@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "https://imgs.search.brave.com/xKESqyG4mdOYrQiMfhRR-ISdjnHClWDNFlpsYxkhQkU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9taW5p/by5sYS51dGV4YXMu/ZWR1L2NvbGF3ZWIt/cHJvZC9sbGlsYXMv/YWJvdXQtdXMvbGxp/bGFzLWJlbnNvbi1w/YXJ0bmVyc2hpcC9s/b2dvX3dlYl9jb2xv/cl9zdGFja2VkXzYw/OTkuanBn",
+    "link": "https://liberalarts.utexas.edu/llilas/about-us/llilas-benson-partnership.html",
+    "text": "María del Carmen Sánchez Aldana Amozurrutia"
+  },
+  "text": {
+    "more": "Schema made from the Transkribus platform using the Text Titan I Ter model, as well as text analysis tools. The python libraries of pandas, SpaCy, csv, re, os, itertools, collections and pathlib were used. \nThe methodology consisted of processing the digitization of the cedulario using transkribus, correcting and modernizing the transcription manually and in some cases with the use of claude ai. \nNext, an entity extraction (NER) was performed using SpaCy. Subsequently, the co-occurrences were drawn by category and plotted using Gephi(r) and Palladium(r), \nThis is a work in progress.",
+    "intro": "Scheme of entity co-occurrences in cedulas from a cedulario from the 17th and 17th centuries belonging to the Benson Latin American collection of the University of Texas.",
+    "title": "Co-ocurrencias organizaciones, personas y grupos"
+  },
+  "legend": {
+    "edgeLabel": "relationships",
+    "colorLabel": "120, 100, 50",
+    "nodeLabel": "entities"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Id",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
