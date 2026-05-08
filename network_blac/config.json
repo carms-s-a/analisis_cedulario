@@ -5,6 +5,8 @@
   "logo": {
     "file": "https://imgs.search.brave.com/b1RLb791jMIn1h2jPzfjXJdN-4sIR04TsmdtQ_joIR4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zaXRl/cy51dGV4YXMuZWR1/L2xsaWxhc2JlbnNv/bmRzL3dwLWNvbnRl/bnQvdXBsb2Fkcy9z/aXRlcy80MTc0LzIw/MTkvMDMvbGJkc19o/ZWFkZXIucG5n",
     "link": "https://liberalarts.utexas.edu/llilas/about-us/llilas-benson-partnership.html",
+    "with": 200px,
+    "height": auto,
     "text": "María del Carmen Sánchez Aldana Amozurrutia"
   },
   "text": {
