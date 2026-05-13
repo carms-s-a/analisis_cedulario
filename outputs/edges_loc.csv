@@ -1,0 +1,98 @@
+source,target,weight
+españa,guadalajara,7
+ciudad de méxico,españa,3
+ciudad de méxico,madrid,4
+guadalajara,madrid,8
+españa,villa de aguilar,3
+madrid,villa de aguilar,1
+buen retiro,españa,3
+buen retiro,villa de aguilar,2
+buen retiro,provincia de sonora,1
+españa,provincia de sonora,2
+provincia de sonora,villa de aguilar,1
+españa,nuevo méxico,4
+nuevo méxico,villa de aguilar,1
+buen retiro,nuevo méxico,2
+buen retiro,madrid,1
+españa,valsaín,1
+madrid,valsaín,1
+madrid,presidio de san sebastián,2
+atotonilco,presidio de san sebastián,1
+españa,presidio de san sebastián,2
+presidio de san hipólito,presidio de san sebastián,2
+atotonilco,madrid,1
+madrid,presidio de san hipólito,2
+atotonilco,españa,1
+atotonilco,presidio de san hipólito,1
+españa,presidio de san hipólito,2
+madrid,real de minas de san joseph del parral,2
+californias,guadalajara,1
+californias,madrid,3
+californias,san francisco del oro,1
+californias,real de minas del rosario,1
+californias,provincia de sinaloa,1
+californias,san ildefonso de ostimuri,1
+californias,real de minas de san joseph del parral,1
+californias,españa,3
+guadalajara,san francisco del oro,3
+guadalajara,real de minas del rosario,1
+guadalajara,provincia de sinaloa,1
+guadalajara,san ildefonso de ostimuri,1
+guadalajara,real de minas de san joseph del parral,1
+madrid,san francisco del oro,3
+madrid,real de minas del rosario,1
+madrid,provincia de sinaloa,2
+madrid,san ildefonso de ostimuri,1
+real de minas del rosario,san francisco del oro,1
+provincia de sinaloa,san francisco del oro,1
+san francisco del oro,san ildefonso de ostimuri,1
+real de minas de san joseph del parral,san francisco del oro,1
+españa,san francisco del oro,2
+provincia de sinaloa,real de minas del rosario,1
+real de minas del rosario,san ildefonso de ostimuri,1
+real de minas de san joseph del parral,real de minas del rosario,1
+españa,real de minas del rosario,1
+provincia de sinaloa,san ildefonso de ostimuri,1
+provincia de sinaloa,real de minas de san joseph del parral,1
+españa,provincia de sinaloa,1
+real de minas de san joseph del parral,san ildefonso de ostimuri,1
+españa,san ildefonso de ostimuri,1
+españa,real de minas de san joseph del parral,1
+guadalajara,provincia de sonora,2
+castilla,guadalajara,1
+madrid,provincia de sonora,3
+castilla,madrid,1
+castilla,provincia de sonora,1
+castilla,españa,1
+guadalajara,presidio de san sebastián,1
+guadalajara,presidio de cerro gordo,1
+guadalajara,presidio de san hipólito,1
+presidio de san sebastián,san francisco del oro,1
+presidio de cerro gordo,presidio de san sebastián,1
+madrid,presidio de cerro gordo,1
+presidio de cerro gordo,san francisco del oro,1
+presidio de san hipólito,san francisco del oro,1
+españa,presidio de cerro gordo,1
+presidio de cerro gordo,presidio de san hipólito,1
+ciudad de guadiana,nuevo méxico,1
+buen retiro,ciudad de guadiana,1
+ciudad de méxico,guadalajara,1
+nuevo méxico,paraje de cuencamé,1
+madrid,nuevo méxico,4
+españa,paraje de cuencamé,1
+madrid,paraje de cuencamé,1
+californias,nuevo méxico,2
+madrid,paraje de casas grandes,1
+buen retiro,ciudad de méxico,2
+china,ciudad de méxico,1
+buen retiro,china,1
+san francisco del oro,valle de san bartolomé,1
+guadalajara,valle de san bartolomé,1
+madrid,valle de san bartolomé,1
+coahuila,guadalajara,1
+guadalajara,nuevo méxico,1
+coahuila,madrid,1
+coahuila,nuevo méxico,1
+coahuila,provincia de sonora,1
+nuevo méxico,provincia de sonora,1
+provincia de sinaloa,provincia de sonora,1
