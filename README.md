@@ -11,7 +11,7 @@ Contact me at: carmensanchez010503@gmail.com
 3. Metadata extraction with LLM
 4. Separation of the cedulas and processing of the text with SpaCy
 
-## Named Entity Recognitio
+## Named Entity Recognition
 1. Run NER in Python with SpaCy: es_core_news_md
 2. Normalization according to the BNE (Biblioteca Nacional de España) name authority files
 3. Clean dataset manually referencing primary sources
