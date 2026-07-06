@@ -1,0 +1,275 @@
+source,target,weight,source_clean
+Cora Indians,madria,1,cora indians
+Cora Indians,nayarit,1,cora indians
+Cora Indians,barra de alvarado,1,cora indians
+Cora Indians,parral,1,cora indians
+Apache Indians,duque de la conquista,2,apache indians
+Apache Indians,compañía,5,apache indians
+Apache Indians,francisco de valdivieso,2,apache indians
+Apache Indians,parras,2,apache indians
+Apache Indians,consejo,7,apache indians
+Apache Indians,real hacienda,4,apache indians
+Apache Indians,consejo de las indias,6,apache indians
+Apache Indians,apaches,9,apache indians
+Apache Indians,conde de san pedro del álamo,3,apache indians
+Apache Indians,nueva vizcaya,4,apache indians
+Apache Indians,aranjuez,5,apache indians
+Apache Indians,españa,3,apache indians
+Apache Indians,conchos,3,apache indians
+Apache Indians,presidio de conchos,2,apache indians
+Apache Indians,cristóbal de córdoba,1,apache indians
+Apache Indians,anza,6,apache indians
+Apache Indians,joseph francisco de valdivieso y echevers,1,apache indians
+Apache Indians,hacienda del álamo,1,apache indians
+Apache Indians,parral,2,apache indians
+Apache Indians,laguna de san pedro,1,apache indians
+Apache Indians,cristóbal de cárdenas,1,apache indians
+Apache Indians,saltillo,2,apache indians
+Apache Indians,presidio del pasaje,2,apache indians
+Apache Indians,bahía del espíritu santo,1,apache indians
+Apache Indians,del pasaje,3,apache indians
+Apache Indians,texas,1,apache indians
+Apache Indians,gila,4,apache indians
+Apache Indians,san antonio de valero,1,apache indians
+Apache Indians,adaes,1,apache indians
+Apache Indians,mojada,1,apache indians
+Apache Indians,reina,1,apache indians
+Apache Indians,san ildefonso,1,apache indians
+Apache Indians,coahuila,2,apache indians
+Apache Indians,conde de fonclara,1,apache indians
+Apache Indians,coapas,1,apache indians
+Seri Indians,compañía,4,seri indians
+Seri Indians,conchos,2,seri indians
+Seri Indians,rubio,1,seri indians
+Seri Indians,joseph rafael rodríguez gallardo,1,seri indians
+Seri Indians,sobaípuri,1,seri indians
+Seri Indians,la reina gobernadora,1,seri indians
+Seri Indians,pima,7,seri indians
+Seri Indians,manuel de san juan,1,seri indians
+Seri Indians,pítiqui,1,seri indians
+Seri Indians,celis,1,seri indians
+Seri Indians,alonso víctores rubio de celis,1,seri indians
+Seri Indians,nueva vizcaya,3,seri indians
+Seri Indians,sinaloa,9,seri indians
+Seri Indians,pilares,2,seri indians
+Seri Indians,pimas,7,seri indians
+Seri Indians,presidio del paso,1,seri indians
+Seri Indians,juan de mendoza,2,seri indians
+Seri Indians,pópulo,1,seri indians
+Seri Indians,san juan,1,seri indians
+Seri Indians,sonora,6,seri indians
+Seri Indians,san miguel de horcasitas,1,seri indians
+Seri Indians,parrilla,5,seri indians
+Seri Indians,ríos del norte,1,seri indians
+Seri Indians,diego ortiz parrilla,5,seri indians
+Seri Indians,san juan bautista,1,seri indians
+Seri Indians,don diego,5,seri indians
+Seri Indians,presidio de san miguel,1,seri indians
+Seri Indians,mateo antonio de mendoza,1,seri indians
+Seri Indians,pimas altos,3,seri indians
+Seri Indians,consejo,6,seri indians
+Seri Indians,fernando sexto,1,seri indians
+Seri Indians,real hacienda,2,seri indians
+Seri Indians,tucsón,1,seri indians
+Seri Indians,san xavier,1,seri indians
+Seri Indians,consejo de las indias,4,seri indians
+Seri Indians,gila,2,seri indians
+Seri Indians,tiburón,4,seri indians
+Seri Indians,compañía de jesús,4,seri indians
+Seri Indians,reina,1,seri indians
+Seri Indians,colorado,2,seri indians
+Seri Indians,manuel antonio de san juan,1,seri indians
+Seri Indians,carrizal,1,seri indians
+Apache Indians,joseph de córdova,1,apache indians
+Apache Indians,tierra de bacallaos,1,apache indians
+Apache Indians,antonio valverde,1,apache indians
+Apache Indians,nueva francia,1,apache indians
+Apache Indians,cerro gordo,2,apache indians
+Apache Indians,martín de alarcón,1,apache indians
+Apache Indians,león,1,apache indians
+Apache Indians,colima,1,apache indians
+Apache Indians,sonora,6,apache indians
+Apache Indians,adriano vi,1,apache indians
+Apache Indians,juan picado pacheco,1,apache indians
+Apache Indians,don diego,4,apache indians
+Apache Indians,mazapil,1,apache indians
+Apache Indians,moqui,3,apache indians
+Apache Indians,domingo picado pacheco,1,apache indians
+Apache Indians,california,4,apache indians
+Apache Indians,gran quivira,1,apache indians
+Apache Indians,nueva canadá,1,apache indians
+Apache Indians,californias,2,apache indians
+Apache Indians,michoacán,1,apache indians
+Apache Indians,reino de león,1,apache indians
+Apache Indians,sinaloa,7,apache indians
+Apache Indians,nayarit,1,apache indians
+Apache Indians,orden de santiago,1,apache indians
+Apache Indians,castilla,1,apache indians
+Apache Indians,tepehuana,1,apache indians
+Apache Indians,alejandro iii,1,apache indians
+Apache Indians,moquis,2,apache indians
+Apache Indians,tarahumara,1,apache indians
+Apache Indians,casas grandes,1,apache indians
+Apache Indians,culiacán,1,apache indians
+Apache Indians,labrador,1,apache indians
+Apache Indians,pima,7,apache indians
+Apache Indians,gallo,2,apache indians
+Apache Indians,barca,1,apache indians
+Apache Indians,cuitzeo,1,apache indians
+Apache Indians,gregorio álvarez tuñón y quirós,1,apache indians
+Apache Indians,puebla,2,apache indians
+Apache Indians,fresnillo,1,apache indians
+Apache Indians,ramón portillo,1,apache indians
+Apache Indians,andrés de rezábal,1,apache indians
+Apache Indians,extremadura,1,apache indians
+Apache Indians,presidio de janos,2,apache indians
+Apache Indians,nueva galicia,1,apache indians
+Apache Indians,francisco barbadillo,1,apache indians
+Apache Indians,juan bautista lópez,1,apache indians
+Apache Indians,compañía de jesús,3,apache indians
+Apache Indians,joseph bossam,1,apache indians
+Apache Indians,valladolid,1,apache indians
+Apache Indians,durango,2,apache indians
+Apache Indians,nuevo méxico,3,apache indians
+Apache Indians,eugenio iv,1,apache indians
+Apache Indians,xalapa,1,apache indians
+Apache Indians,galicia,1,apache indians
+Apache Indians,alejandro vi,1,apache indians
+Apache Indians,pimas,7,apache indians
+Apache Indians,monterrey,1,apache indians
+Apache Indians,san juan,2,apache indians
+Apache Indians,estrecho de anián,1,apache indians
+Apache Indians,alonso el católico,1,apache indians
+Apache Indians,valparaíso,1,apache indians
+Apache Indians,martín de alday,1,apache indians
+Apache Indians,nueva extremadura,1,apache indians
+Apache Indians,antonio bezerra,1,apache indians
+Apache Indians,janos,2,apache indians
+Apache Indians,san antonio de casas grandes,1,apache indians
+Apache Indians,san francisco,1,apache indians
+Apache Indians,diego camacho dávila,1,apache indians
+Apache Indians,duque de linares,1,apache indians
+Apache Indians,el gallo,2,apache indians
+Apache Indians,guadalajara,2,apache indians
+Seri Indians,españa,2,seri indians
+Seri Indians,chametla,1,seri indians
+Seri Indians,rosario,1,seri indians
+Seri Indians,galicia,1,seri indians
+Seri Indians,ciudad de méxico,1,seri indians
+Seri Indians,san lorenzo,1,seri indians
+Seri Indians,yaqui,2,seri indians
+Seri Indians,conde de la monclova,1,seri indians
+Seri Indians,marqués de valero,1,seri indians
+Seri Indians,río yaqui,2,seri indians
+Seri Indians,marqués de casa fuerte,1,seri indians
+Seri Indians,manuel de agramonte,1,seri indians
+Seri Indians,fernando bayerca,1,seri indians
+Seri Indians,teuricachi,1,seri indians
+Seri Indians,california,4,seri indians
+Seri Indians,nueva galicia,1,seri indians
+Seri Indians,californias,2,seri indians
+Seri Indians,audiencia de lima,1,seri indians
+Seri Indians,andrés de rezaval,1,seri indians
+Seri Indians,joseph lópez zapata,1,seri indians
+Seri Indians,guadalajara,2,seri indians
+Apache Indians,manuel bernal,1,apache indians
+Seri Indians,manuel bernal,1,seri indians
+Apache Indians,terrenate,3,apache indians
+Apache Indians,Seri Indians,5,apache indians
+Apache Indians,santa rosa,2,apache indians
+Apache Indians,manuel bernal de huidobro,1,apache indians
+Apache Indians,huidobro,1,apache indians
+Apache Indians,corodéguachi,3,apache indians
+Apache Indians,tepocas,1,apache indians
+Seri Indians,terrenate,2,seri indians
+Seri Indians,moqui,1,seri indians
+Seri Indians,santa rosa,2,seri indians
+Seri Indians,manuel bernal de huidobro,1,seri indians
+Seri Indians,nuevo méxico,1,seri indians
+Seri Indians,huidobro,1,seri indians
+Seri Indians,aranjuez,2,seri indians
+Seri Indians,corodéguachi,2,seri indians
+Seri Indians,tepocas,2,seri indians
+Apache Indians,nueva andalucía,1,apache indians
+Apache Indians,pimería,3,apache indians
+Apache Indians,madrid,4,apache indians
+Apache Indians,pimería alta,2,apache indians
+Apache Indians,gabriel de prudhon,1,apache indians
+Apache Indians,juan bautista de anza,1,apache indians
+Apache Indians,río del norte,1,apache indians
+Apache Indians,sierra azul,1,apache indians
+Apache Indians,pimas altos,3,apache indians
+Apache Indians,colorado,2,apache indians
+Apache Indians,obispo de durango,1,apache indians
+Apache Indians,consejo de indias,1,apache indians
+Apache Indians,don agustín,1,apache indians
+Apache Indians,vildosola,1,apache indians
+Apache Indians,agustín de vildosola,1,apache indians
+Seri Indians,consejo de indias,1,seri indians
+Seri Indians,apaches,4,seri indians
+Seri Indians,don agustín,1,seri indians
+Seri Indians,vildosola,1,seri indians
+Seri Indians,madrid,5,seri indians
+Seri Indians,agustín de vildosola,1,seri indians
+Apache Indians,diego ortiz parrilla,3,apache indians
+Apache Indians,presidio de san pedro,1,apache indians
+Apache Indians,parrilla,3,apache indians
+Apache Indians,jacobo sedelmayr,1,apache indians
+Apache Indians,sánchez salvador,1,apache indians
+Apache Indians,san bartolomé,1,apache indians
+Apache Indians,chihuahua,1,apache indians
+Apache Indians,camino real de la nueva vizcaya,1,apache indians
+Apache Indians,yaqui,1,apache indians
+Apache Indians,américa,1,apache indians
+Apache Indians,tomás tello,1,apache indians
+Apache Indians,caborca,2,apache indians
+Apache Indians,islas marías,1,apache indians
+Apache Indians,santa maría soamca,1,apache indians
+Apache Indians,menocal,1,apache indians
+Apache Indians,río yaqui,1,apache indians
+Apache Indians,buen retiro,1,apache indians
+Apache Indians,enrique ruhen,1,apache indians
+Apache Indians,tubutama,2,apache indians
+Apache Indians,tiburón,1,apache indians
+Apache Indians,guevavi,1,apache indians
+Apache Indians,cristóbal de escobar y llamas,1,apache indians
+Apache Indians,pedro ignacio altamirano,1,apache indians
+Apache Indians,santa ana,1,apache indians
+Apache Indians,mapimí,1,apache indians
+Apache Indians,luis oacpicagigua,1,apache indians
+Seri Indians,jacobo sedelmayr,1,seri indians
+Seri Indians,sánchez salvador,1,seri indians
+Seri Indians,san bartolomé,1,seri indians
+Seri Indians,chihuahua,1,seri indians
+Seri Indians,gallo,1,seri indians
+Seri Indians,camino real de la nueva vizcaya,1,seri indians
+Seri Indians,pimería,2,seri indians
+Seri Indians,pimería alta,1,seri indians
+Seri Indians,cerro gordo,1,seri indians
+Seri Indians,américa,1,seri indians
+Seri Indians,anza,3,seri indians
+Seri Indians,tomás tello,1,seri indians
+Seri Indians,caborca,2,seri indians
+Seri Indians,islas marías,1,seri indians
+Seri Indians,conde de san pedro del álamo,1,seri indians
+Seri Indians,santa maría soamca,1,seri indians
+Seri Indians,menocal,1,seri indians
+Seri Indians,buen retiro,1,seri indians
+Seri Indians,enrique ruhen,1,seri indians
+Seri Indians,presidio del pasaje,1,seri indians
+Seri Indians,del pasaje,1,seri indians
+Seri Indians,tubutama,2,seri indians
+Seri Indians,guevavi,1,seri indians
+Seri Indians,cristóbal de escobar y llamas,1,seri indians
+Seri Indians,pedro ignacio altamirano,1,seri indians
+Seri Indians,santa ana,1,seri indians
+Seri Indians,el gallo,1,seri indians
+Seri Indians,mapimí,1,seri indians
+Seri Indians,luis oacpicagigua,1,seri indians
+Apache Indians,el jorge,1,apache indians
+Apache Indians,el jason,1,apache indians
+Seri Indians,el jorge,1,seri indians
+Seri Indians,el jason,1,seri indians
+Seri Indians,bernardo de urrea,1,seri indians
+Apache Indians,ignacio lizasoáin,1,apache indians
+Seri Indians,ignacio lizasoáin,1,seri indians
