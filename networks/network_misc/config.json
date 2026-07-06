@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "https://www.image2url.com/r2/default/images/1778271680649-412ad379-5196-4f59-b715-ce92e1d625f9.webp",
+    "link": "https://liberalarts.utexas.edu/llilas/about-us/llilas-benson-partnership.html",
+    "text": "María del Carmen Sánchez Aldana Amozurrutia"
+  },
+  "text": {
+    "more": "Schema made from the Transkribus platform using the Text Titan I Ter model, as well as text analysis tools. The python libraries of pandas, SpaCy, csv, re, os, itertools, collections and pathlib were used to perform Named Entoity Recognition (NER). \nThe methodology consisted of processing the digitization of the cedulario using transkribus, correcting and modernizing the transcription manually and in some cases with the use of claude ai. \nNext, an entity extraction (NER) was performed using SpaCy. Subsequently, pipeline for  dependency parsing was run, then, edges were exported and graphed on Paladio. ",
+    "intro": "Dependency parcing network of native groups described in the cedulario belonging to the W. B. Stephens Collection of the Benson Latin American Libraries of the University of Texas. ",
+    "title": "Full co-ocurrency network"
+  },
+  "legend": {
+    "edgeLabel": "relationships",
+    "colorLabel": "120, 100, 50",
+    "nodeLabel": "entities"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
